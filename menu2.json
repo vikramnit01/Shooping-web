@@ -1,0 +1,45 @@
+[{
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name": "shoe",
+    "image": "1.png",
+    "price": "2000",
+    "size": "15% OFF"
+  },{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea3"
+    },
+   "name":"Goggles",
+   "image":"2.png",
+   "price":"600",
+   "size":"15% OFF"
+  },{
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea4"
+    },
+   "name":"Phone",
+        "image":"1.png",
+        "price":"50000",
+        "size":"20% OFF"
+  },{
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bea6"
+    },
+    "name":"Camera","image":"4.png","price":"40000","size":"20% OFF"
+  },{
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bea7"
+    },
+    "name":"Basket Ball","image":"6.png","price":"500","size":"10% OFF"
+  },{
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bea8"
+    },
+    "name":"Bag","image":"8.png","price":"1500","size":"20% OFF"
+  },{ 
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name":"HeadPhone","image":"10.png","price":"2000","size":"12% OFF"
+  }]
